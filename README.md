@@ -33,7 +33,7 @@ The system classifies emails into:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Syed/phishing-detection.git
+git clone https://github.com/nullfist/phishing-detection.git
 cd phishing-detection
 python -m venv venv
 source venv/bin/activate # Windows: venv\Scripts\activate
