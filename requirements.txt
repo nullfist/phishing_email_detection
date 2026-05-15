@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+numpy
+nltk
+requests
+beautifulsoup4
+streamlit
+regex
+fpdf2
+joblib
+plotly
